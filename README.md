@@ -1,1 +1,1 @@
-# sqarejump
+# squarejump
